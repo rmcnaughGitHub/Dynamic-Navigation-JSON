@@ -1,0 +1,72 @@
+{
+"menu": {
+		"home":[
+			{
+			"displayText": "Getting Started",
+			"url": "http://www.w3schools.com/js/default.asp",
+			"image": "../img/IMG_20160701_2238201.jpg"
+			},
+			{
+			"displayText": "Enterprise Standards",
+			"url": "https://www.w3schools.com/js/tryit.asp?filename=tryjson_html_table",
+			"image": "../img/IMG_20160701_2238071.jpg"
+			},
+			{
+			"displayText": "Brand Guidelines",
+			"url": "https://www.w3schools.com/js/js_json_objects.asp",
+			"image": "../img/IMG_20160701_2237461.jpg"
+			},
+			{
+			"displayText": "Assets and Resources",
+			"url": "https://www.sitepoint.com/dynamic-menu-javascript/",
+			"image": "../img/IMG_20160701_2237461.jpg"
+			}
+
+		],
+
+		"home2":[
+			{
+			"displayText": "Logo",
+			"url": "http://www.w3schools.com/js/default.asp",
+			"image": "../img/IMG_20160701_2238201.jpg"
+			},
+			{
+			"displayText": "Name Artwork",
+			"url": "https://www.w3schools.com/js/tryit.asp?filename=tryjson_html_table",
+			"image": "../img/IMG_20160701_2238071.jpg"
+			},
+			{
+			"displayText": "Color",
+			"url": "https://www.w3schools.com/js/js_json_objects.asp",
+			"image": "../img/IMG_20160701_2237461.jpg"
+			},
+			{
+			"displayText": "Typography",
+			"url": "https://www.sitepoint.com/dynamic-menu-javascript/",
+			"image": "../img/IMG_20160701_2237461.jpg"
+			},
+			{
+			"displayText": "Imagery",
+			"url": "https://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209",
+			"image": "../img/IMG_20160701_2237461.jpg"
+			},
+			{
+			"displayText": "Architecture",
+			"url": "https://stackoverflow.com/questions/7196212/how-to-create-dictionary-and-add-key-value-pairs-dynamically-in-javascript",
+			"image": "../img/IMG_20160701_2237461.jpg"
+			},
+			{
+			"displayText": "Naming",
+			"url": "https://www.quirksmode.org/js/associative.html",
+			"image": "../img/IMG_20160701_2237461.jpg"
+			},
+			{
+			"displayText": "Process",
+			"url": "https://www.w3schools.com/js/js_arrays.asp",
+			"image": "../img/IMG_20160701_2237461.jpg"
+			}
+
+		]
+	}
+
+}

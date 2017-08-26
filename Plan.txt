@@ -1,0 +1,31 @@
+Ways to make dynamic nav using external json file:
+
+1) up where you call styleJSON, figure out what page you're on and pass in the proper array or, in your JSON, specify the pages that each link should show on and then use a map function to reduce it to only the links which match your current page///
+
+example:
+
+var arr = [
+    {
+        name: 'link one',
+        pages: ['home', 'about', 'bio']
+    },
+    {
+        name: 'link two',
+        pages: ['home', 'bio']
+    },
+    {
+        name: 'link three',
+        pages: ['bio']
+    }
+]
+
+var thisPage = 'home'
+
+// validLinks is only the objects in the array
+// whose pages subarray contains thisPage
+
+var validLinks = arr.map(function(item) {
+    return (item.pages.indexOf(thisPage) > -1 )
+});
+
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map

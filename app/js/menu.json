@@ -1,0 +1,23 @@
+[
+	{
+	"displayText": "Getting Started",
+	"url": "http://www.w3schools.com/js/default.asp",
+	"image": "../img/IMG_20160701_2238201.jpg"
+	},
+	{
+	"displayText": "Enterprise Standards",
+	"url": "https://www.w3schools.com/js/tryit.asp?filename=tryjson_html_table",
+	"image": "../img/IMG_20160701_2238071.jpg"
+	},
+	{
+	"displayText": "Brand Guidelines",
+	"url": "https://www.w3schools.com/js/js_json_objects.asp",
+	"image": "../img/IMG_20160701_2237461.jpg"
+	},
+	{
+	"displayText": "Assets and Resources",
+	"url": "https://www.sitepoint.com/dynamic-menu-javascript/",
+	"image": "../img/IMG_20160701_2237461.jpg"
+	}
+
+]
